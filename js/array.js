@@ -1,4 +1,8 @@
 let arr = [2, 4, 6, 8, 10, 12, 14, 16];
+
+// Array Map
+
+
 // With Simple Function Call
 // let newArr = arr.map(myFun);
 
@@ -16,3 +20,12 @@ let arr = [2, 4, 6, 8, 10, 12, 14, 16];
 // With Arrow Function
 // let newArr = arr.map((element, index, arr) => element + 5);
 // console.log(newArr)
+
+// Array Push
+// arr.push(1000);
+// console.log(arr)
+
+
+// Array Unshift
+// arr.unshift(50, 70);
+// console.log(arr);
