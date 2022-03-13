@@ -29,3 +29,11 @@ let arr = [2, 4, 6, 8, 10, 12, 14, 16];
 // Array Unshift
 // arr.unshift(50, 70);
 // console.log(arr);
+
+//  Array Pop
+// console.log(arr.pop())
+// console.log(arr)
+
+//  Array Shift
+// console.log(arr.shift())
+// console.log(arr)
